@@ -1,0 +1,107 @@
+.middle{
+  width: 25vw;
+  height: 40vh;
+  border: 0.5vh ;
+  border-radius: 1vh;
+  margin-top: 25vh;
+  margin-left: 70vh;
+  border: 1vh;
+  padding: 1vh 1vh;
+  box-shadow: 0px 0px 3vh #888888;
+ text-align: center;
+}
+
+
+.buttons{
+    margin-top: 0.3vh;
+    margin-bottom: 1vh;
+  }
+
+  .Log-in{
+    width: 24.9vw;
+    height: 6vh;
+    margin-top: -10vh;
+    margin-right: 5vh;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    background-color: #448ba7;
+    color: white;
+    margin: 0.5vh 0;
+    border: none;
+    cursor: pointer;
+    border-radius: 1vh;
+  }
+
+  .LOG{
+    width: 24.7vw;
+    height: 6vh;
+    padding: 1vh 1vh;
+    margin: 0.5vh 0vh;
+    display: inline-block;
+    border: 0.3vh solid #bbafaf;
+    box-sizing: border-box;
+    color: #4d4242;
+    font-size: 2vh;
+    text-align: left;
+    background: white;
+    border-radius: 0.5vh;
+  }
+
+  .Password{
+    width: 24.7vw;
+    height: 6vh;
+    padding: 2vh 2vh;
+    margin: 0.5vh 0;
+    display: inline-block;
+    border: 0.3vh solid #bbafaf;
+    box-sizing: border-box;
+    color: #423b3b;
+    font-size: 2vh;
+    text-align: left;
+    background: white;
+    border-radius: 0.5vh;
+  }
+
+  .footer{
+    font-size: 2vh;
+    color: #448ba7;
+    }
+
+    .create{
+      width: 17vw;
+      height: 6vh;
+      margin-right: 5vh;
+      display: inline-block;
+      border: 1px solid #ccc;
+      box-sizing: border-box;
+      background-color:green;
+      color: white;
+      margin: 2vh 0;
+      border: none;
+      cursor: pointer;
+      border-radius: 1vh;
+      
+    }
+.facebook{
+  font-size: 10vh;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color:rgb(58, 138, 204) ;
+  font-style: normal;
+  font-weight: bolder;
+  position: absolute;
+  margin-top: -65vh;
+  margin-left: 20vh;
+}
+
+.last{
+  font-size: 4vh;
+  font-family: inherit;
+  margin-top: -40vh;
+  margin-left: 20vh;
+}
+
+.below{
+  margin-top: 10vh;
+  margin-left: 71vh;
+}
