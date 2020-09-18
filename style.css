@@ -1,14 +1,15 @@
 .middle{
-  width: 25vw;
-  height: 40vh;
+  width: 28vw;
+  height: 48vh;
   border: 0.5vh ;
   border-radius: 1vh;
   margin-top: 25vh;
-  margin-left: 70vh;
+  margin-left: 75vh;
   border: 1vh;
   padding: 1vh 1vh;
-  box-shadow: 0px 0px 3vh #888888;
+  box-shadow: 0px 0px 0.3vh #888888;
  text-align: center;
+ color: #a3b5c1;
 }
 
 
@@ -18,90 +19,93 @@
   }
 
   .Log-in{
-    width: 24.9vw;
-    height: 6vh;
+    width: 26.5vw;
+    height: 7vh;
     margin-top: -10vh;
     margin-right: 5vh;
     display: inline-block;
     border: 1px solid #ccc;
     box-sizing: border-box;
-    background-color: #448ba7;
+    background-color: #1877f2;
     color: white;
-    margin: 0.5vh 0;
+    margin: 1.3vh 1vh;
     border: none;
     cursor: pointer;
     border-radius: 1vh;
+    font-size: 3.5vh;
   }
 
   .LOG{
-    width: 24.7vw;
-    height: 6vh;
+    width: 26.5vw;
+    height: 7vh;
     padding: 1vh 1vh;
-    margin: 0.5vh 0vh;
+    margin: 1.3vh 0vh;
     display: inline-block;
-    border: 0.3vh solid #bbafaf;
+    border: 0.1vh solid #bbafaf;
     box-sizing: border-box;
-    color: #4d4242;
-    font-size: 2vh;
+    color: #a3b5c1;
+    font-size: 2.5vh;
     text-align: left;
     background: white;
     border-radius: 0.5vh;
   }
 
   .Password{
-    width: 24.7vw;
-    height: 6vh;
+    width: 26.5vw;
+    height: 7vh;
     padding: 2vh 2vh;
-    margin: 0.5vh 0;
+    margin: 1.3vh 0;
     display: inline-block;
-    border: 0.3vh solid #bbafaf;
+    border: 0.1vh solid #bbafaf;
     box-sizing: border-box;
-    color: #423b3b;
-    font-size: 2vh;
+    color: #a3b5c1;
+    font-size: 2.5vh;
     text-align: left;
     background: white;
     border-radius: 0.5vh;
   }
 
   .footer{
-    font-size: 2vh;
+    font-size: 2.5vh;
     color: #448ba7;
     }
 
     .create{
-      width: 17vw;
-      height: 6vh;
+      width: 15vw;
+      height: 7vh;
       margin-right: 5vh;
       display: inline-block;
       border: 1px solid #ccc;
       box-sizing: border-box;
-      background-color:green;
+      background-color:#42b72a;
       color: white;
       margin: 2vh 0;
       border: none;
       cursor: pointer;
       border-radius: 1vh;
+      font-size: 2.6vh;
+      font-weight: bold;
       
     }
 .facebook{
-  font-size: 10vh;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  color:rgb(58, 138, 204) ;
+  font-size: 8vh;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color:#1877f2 ;
   font-style: normal;
   font-weight: bolder;
   position: absolute;
-  margin-top: -65vh;
+  margin-top: -60vh;
   margin-left: 20vh;
 }
 
 .last{
   font-size: 4vh;
-  font-family: inherit;
+  font-family:  Arial, Helvetica, sans-serif;
   margin-top: -40vh;
   margin-left: 20vh;
 }
 
 .below{
-  margin-top: 10vh;
+  margin-top: 7vh;
   margin-left: 71vh;
 }
